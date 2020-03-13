@@ -13,5 +13,11 @@
         <source>Template update test</source>
         <translation type="unfinished"></translation>
     </message>
+    <message id="id-back-not-front">
+        <source>Back</source>
+        <extracomment>The back of the object, not the front</extracomment>
+        <translation type="unfinished"></translation>
+        <extra-Context>Not related to back-stepping</extra-Context>
+    </message>
 </context>
 </TS>
