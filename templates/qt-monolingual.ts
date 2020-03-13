@@ -3,14 +3,14 @@
 <TS version="2.1">
 <context>
     <name></name>
-    <message id="first-entry">
-        <location filename="first.qml" line="6"/>
-        <source>First</source>
+    <message id="some-qt-monoligual">
+        <location filename="QTTranslations.qml" line="6"/>
+        <source>Mist</source>
         <translation type="unfinished"></translation>
     </message>
-    <message id="second-entry">
-        <location filename="second.qml" line="27"/>
-        <source>Second</source>
+    <message id="another-qt-monoligual">
+        <location filename="QTTranslationsUpdate.qml" line="27"/>
+        <source>Template update test</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
