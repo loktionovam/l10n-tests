@@ -5,6 +5,7 @@
     <name></name>
     <message id="id-back-not-front">
         <source>Back</source>
+        <translation>Back</translation>
         <extracomment>The back of the object, not the front</extracomment>
         <extra-Context>Not related to back-stepping</extra-Context>
     </message>
