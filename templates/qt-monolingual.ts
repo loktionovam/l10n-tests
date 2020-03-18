@@ -8,5 +8,10 @@
         <source>Mist</source>
         <translation type="unfinished"></translation>
     </message>
+    <message id="another-qt-monoligual">
+        <location filename="QTTranslationsUpdate.qml" line="27"/>
+        <source>Template update test</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>
