@@ -13,10 +13,5 @@
         <source>Template update test</source>
         <translation type="unfinished"></translation>
     </message>
-    <message id="another-qt-monoligual1">
-        <location filename="QTTranslationsUpdate.qml" line="234"/>
-        <source>First translation component</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 </TS>
