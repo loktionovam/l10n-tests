@@ -8,5 +8,10 @@
         <source>Second</source>
         <translation type="unfinished"></translation>
     </message>
+    <message id="second-component-2">
+        <location filename="SecondComponent.qml" line="67"/>
+        <source>Third</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>
