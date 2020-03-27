@@ -13,10 +13,5 @@
         <source>Third</source>
         <translation type="unfinished"></translation>
     </message>
-    <message id="second-component-3">
-        <location filename="ThirdComponent.qml" line="67"/>
-        <source>3</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 </TS>
